@@ -1,6 +1,6 @@
 ## Web security blogs that doesnt support RSS
-Ref:
-https://github.com/404notf0und/Security-Data-Analysis-and-Visualization/blob/master/2018-2020%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E5%9C%88%E6%B4%BB%E8%B7%83%E6%8A%80%E6%9C%AF%E5%8D%9A%E4%B8%BB.csv
+Ref 
+- https://github.com/404notf0und/Security-Data-Analysis-and-Visualization/blob/master/2018-2020%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E5%9C%88%E6%B4%BB%E8%B7%83%E6%8A%80%E6%9C%AF%E5%8D%9A%E4%B8%BB.csv
 ### https://lufe1.cn/
 
 - https://lufe1.cn/2018/05/18/SSO%E5%88%86%E6%9E%90/#more
@@ -36,4 +36,24 @@ https://only-free.github.io/2019/05/23/dui-web-an-quan-de-yi-xie-jing-yan-fen-xi
 - https://susers.github.io/Web/java-deserialize/
 
 ### http://hexo.imagemlt.xyz/
+
+### https://www.jianshu.com/u/bf30f18c872c
+- [Bash /dev/(tcp|udp)/${HOST}/${PORT} 分析](https://www.jianshu.com/p/80d6b5a61372)
+
+
+### https://www.kingkk.com/
+- [XXE防御笔记]https://www.kingkk.com/2019/07/XXE%E9%98%B2%E5%BE%A1%E7%AC%94%E8%AE%B0/
+
+### http://adm1n.design/
+
+### http://admintony.com/
+
+
+### http://pupiles.com
+- http://pupiles.com/java_unserialize2.html
+
+### https://blog.cyru1s.com
+
+
+
 
