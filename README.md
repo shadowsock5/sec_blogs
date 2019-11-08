@@ -55,6 +55,18 @@ https://only-free.github.io/2019/05/23/dui-web-an-quan-de-yi-xie-jing-yan-fen-xi
 ### https://blog.cyru1s.com
 
 ### https://mengsec.com
-https://mengsec.com/2019/09/29/bitbucket-path-travel-to-rce/
+- https://mengsec.com/2019/09/29/bitbucket-path-travel-to-rce/
+
+### http://www.code2sec.com
+- http://www.code2sec.com/javafan-xu-lie-hua-lou-dong-xue-xi-shi-jian-liu-lei-de-jia-zai-ji-zhi-he-e-yi-lei-gou-zao.html
+- http://www.code2sec.com/javazhong-huo-qu-urlde-hostde-zheng-que-zi-shi.html
 
 
+### https://laworigin.github.io
+- https://laworigin.github.io/2019/01/11/s2-045-调试分析/#more
+
+
+### https://klionsec.github.io
+- https://klionsec.github.io/2017/12/20/ldap-sec/
+
+### http://p2j.cn/
